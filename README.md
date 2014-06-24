@@ -2,7 +2,19 @@
 
 A scribus plugin that shows messages.
 
-# Features
+# Todo
+
+- create the plugin
+- find out how to store the messages in a .SLA and how to retrieve them
+- create a QML file for the list
+- let the user add messages
+- create an API that lets the code add simple messages
+- show the list of active messages in the list
+- let the user mark the messages as done and hide the done messages
+- optionally attach the message to the current / specific (API only) page or item
+- get the preflight verifier to show that there are open messages
+
+# Planned features
 
 - A palette shows a list of messages that have to be accepted by the user
 - Accepted messages are hidden
