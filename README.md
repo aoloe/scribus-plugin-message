@@ -1,6 +1,6 @@
 # scribus-plugin-message
 
-A scribus plugin that shows messages.
+A scribus plugin that stores and shows messages.
 
 # Todo
 
